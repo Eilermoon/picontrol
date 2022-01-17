@@ -13,7 +13,7 @@
 
   ```bash
  sudo apt-get update
- wget https://github.com/jetechteam/picontrol/raw/master/picontrol.tgz
+ wget https://github.com/eilermoon/picontrol/raw/master/picontrol.tgz
  tar -xzf picontrol.tgz
  ```
 5. Run installer
